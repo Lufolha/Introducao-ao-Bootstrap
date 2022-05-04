@@ -1,4 +1,4 @@
-# Intradução ao Bootstrap ​:grin:
+# Introdução ao Bootstrap ​:grin:
 Criação da minha primeira página Web com utilização do Bootstrap.
 
 <img src="web.png" width="800" height="400">
