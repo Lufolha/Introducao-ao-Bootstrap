@@ -3,6 +3,6 @@ Criação da minha primeira página Web com utilização do Bootstrap.
 
 <img src="web.png" width="800" height="400">
 
-Exercício prático da aula de **Introdução ao Bootstrap** do Bootcamp Carrefour Web Developer, realizado pela <a href="https://www.dio.me/" target="_blank">DIO</a>.
+Exercício prático da aula de **Introdução ao Bootstrap** do Bootcamp Carrefour Web Developer, realizado pela [DIO]("https://www.dio.me/".
 
-##### Visite <a href="https://www.linkedin.com/in/luisafolharini/" target="_blank">meu perfil</a> no LinkedIn ​:smile:
+##### Visite [meu perfil]("https://www.linkedin.com/in/luisafolharini/") no LinkedIn ​:smile:
