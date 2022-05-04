@@ -1,7 +1,7 @@
 # Intradução ao Bootstrap ​:grin:
 Criação da minha primeira página Web com utilização do Bootstrap.
 
-<img src="Introducao-ao-Bootstrap/img/web.jpg" width="800" height="400">
+<img src="file:///C:/Users/lufol/Desktop/Luisa/Tech/DIO/Introducao-ao-Bootstrap/index.html" width="800" height="400">
 
 #### Exercício prático da aula de **Introdução ao Bootstrap** do Bootcamp Carrefour Web Developer, realizado pela [DIO](https://www.dio.me/).
 
